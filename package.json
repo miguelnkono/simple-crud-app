@@ -9,6 +9,7 @@
   },
   "author": "Nkono Ndeme Miguel",
   "license": "MIT",
+  "github": "git@github.com:miguelnkono/simple-crud-app.git",
   "dependencies": {
     "express": "^4.21.2",
     "mongodb": "^6.13.0",
